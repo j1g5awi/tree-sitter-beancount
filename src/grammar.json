@@ -237,7 +237,7 @@
                 },
                 {
                   "type": "PATTERN",
-                  "value": "[\\p{Lu}\\p{N}][\\p{L}\\p{N}\\-]*"
+                  "value": "[\\u4E00-\\u9FFF\\p{Lu}\\p{N}][\\u4E00-\\u9FFF\\p{L}\\p{N}\\-]*"
                 }
               ]
             }
